@@ -1,0 +1,11 @@
+﻿  Bomb.cpp
+  Bullet.cpp
+  Game.cpp
+C:\Users\arhsxro\source\repos\SpaceInvaders\SpaceInvaders\Game.cpp(84,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\arhsxro\source\repos\SpaceInvaders\SpaceInvaders\Game.cpp(91,24): warning C4305: '=': truncation from 'double' to 'float'
+  gameobject.cpp
+  Invader.cpp
+  Main.cpp
+  Player.cpp
+  Generating Code...
+  SpaceInvaders.vcxproj -> C:\Users\arhsxro\source\repos\SpaceInvaders\x64\Debug\SpaceInvaders.exe
